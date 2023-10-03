@@ -1,4 +1,4 @@
-### Hi there 👋
+##Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on Web Devlopment<br><br>🌱 I’m currently learning React, NodeJS<br><br>👨‍💻 All of my projects are available at github profile<br><br>💬 Ask me about Frontend and Backend<br><br>📫 How to reach me adityamaurya146@gmail.com
@@ -19,9 +19,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adityam14&icon=0&color=0)](https://visitcount.itsvg.in)
