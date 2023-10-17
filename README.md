@@ -1,6 +1,5 @@
+![logo](https://github.com/Adityam14/Adityam14/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Maurya (Adityam14)</h1>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/Adityam14/Adityam14/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png" />
 
 
 
