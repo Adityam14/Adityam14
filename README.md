@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Maurya (Adityam14)</h1>
 
-<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFxhehtLt0/BkW_832XqKQfybQEWelC1A/edit?utm_content=DAFxhehtLt0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+<img align="right" alt="Coding" width="400" src="https://github.com/Adityam14/Adityam14/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png" />
 
 
 
