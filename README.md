@@ -1,7 +1,7 @@
 ![logo](https://github.com/Adityam14/Adityam14/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Maurya (Adityam14)</h1>
 
-
+<h3 align="center">A passionate frontend developer from India.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Adityam14&icon=0&color=12)](https://visitcount.itsvg.in)
 
