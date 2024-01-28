@@ -8,6 +8,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Devlopment<br><br>🌱 I’m currently learning React, NodeJS<br><br>👨‍💻 All of my projects are available at github profile<br><br>💬 Ask me about Frontend and Backend<br><br>📫 How to reach me adityamaurya146@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=Adityam14&icon=0&color=12)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adityam14&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
