@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Maurya (Adityam14)</h1>
 
 <h3 align="center">A passionate frontend developer from India.</h3>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Adityam14&label=Profile%20Views&pretty=false" />
-</a>
+
 [![](https://visitcount.itsvg.in/api?id=Adityam14&icon=0&color=12)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
